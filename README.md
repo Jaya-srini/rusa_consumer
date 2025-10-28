@@ -1,0 +1,1 @@
+# rusa_consumer
